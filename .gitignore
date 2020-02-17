@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 dist.xlsx
+.DS_Store
